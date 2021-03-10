@@ -41,7 +41,7 @@
 #  adhere to the rules for determining SNPs and indels. Lines 128 and   #
 #  140 of the below code were inserted after lines 102 and 112 of the   #
 #  original code.                                                       #
-#																		#
+#									#									#
 #########################################################################
 
 
