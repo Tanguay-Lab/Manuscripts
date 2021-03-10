@@ -3,6 +3,5 @@ Dasgupta S, Dunham CL, Truong L, Simonich MT, Sullivan CM, and Tanguay RL. (2021
 doi: 10.3389/fcell.2021.663032
 
 <br>
-<br>
 
 ## Supplemental Information and Files
