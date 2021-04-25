@@ -5,7 +5,7 @@ doi: 10.3389/fcell.2021.663032](https://www.frontiersin.org/articles/10.3389/fce
 <br>
 
 ## Supplemental Information and Files
-Supplemental RNA Sequencing Analysis Methods
+Supplemental Sequencing Analysis Methods
 
 Supplemental File [FRC_adapters.fa](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/FRC_adapters.fa)
 
