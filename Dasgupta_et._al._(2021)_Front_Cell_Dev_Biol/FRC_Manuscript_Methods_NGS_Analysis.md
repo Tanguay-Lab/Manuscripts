@@ -13,89 +13,80 @@ Analysis of miRNA counts was conducted using R v3.6.0 (R Core Team 2019) and Bio
 ## miRNA Target Identification
 The Bioinformatics Resource Manager (BRM) was used to determine if significantly differentially expressed genes identified in the RNA-seq data overlapped with the potential targets of significantly differentially expressed miRNAs (Brown et al. 2019; Tilton et al. 2012). The BRM, an online tool that facilitates genomic identifier retrieval and integration, includes a workflow for connecting miRNAs with target genes. It leverages computationally predicted miRNA target data from MicroCosm (Griffiths-Jones et al. 2006), TargetScan (Agarwal et al. 2015), and microRNA.org (Betel et al. 2008), and experimentally validated miRNA target data from miRTarBase (Chou et al. 2018). Repressive interactions were identified by uploading significantly differentiated upregulated miRNAs to the miRNA Targets workflow, selecting all target databases with required hits from at least one of the four databases, and then merging the results of the miRNA targets database search with the list of significantly differentiated downregulated genes identified from the RNA-seq data. Similarly, derepressive interactions were identified by uploading significantly differentiated downregulated miRNAs to the miRNA Targets workflow, selecting all target databases with required hits from at least one of the four databases, and then merging the results of the miRNA targets database search with the list of significantly differentiated upregulated genes identified from the RNA-seq data. Of the four selected databases, only MicroCosm, TargetScan, and miRTarBase include zebrafish data; therefore, high confidence interactions were selected when met by one of the following criteria: 1) inclusion in miRTarBase, 2) prediction by both MicroCosm and TargetScan, 3) prediction by MicroCosm with p ≤ 0.01, or 4) prediction by TargetScan with a weighted context++ score ≥ 50.
  
-## References
-Agarwal V, Bell GW, Nam JW, Bartel DP. 2015. Predicting effective microrna target sites in mammalian mrnas. Elife. 4: e05005. doi: 10.7554/eLife.05005.
+ 
+##References
+Agarwal V, Bell GW, Nam JW, Bartel DP. 2015. Predicting effective microRNA target sites in mammalian mRNAs. Elife. 4: e05005. https://doi.org/10.7554/eLife.05005.
 
-Anders S, McCarthy DJ, Chen Y, Okoniewski M, Smyth GK, Huber W, et al. 2013. Count-based differential expression analysis of rna sequencing data using r and bioconductor. Nature Protocols. 8(9): 1765-1786. doi: 10.1038/nprot.2013.099.
+Anders S, McCarthy DJ, Chen Y, Okoniewski M, Smyth GK, Huber W, et al. 2013. Count-based differential expression analysis of RNA sequencing data using R and Bioconductor. Nature Protocols. 8(9): 1765-1786. https://doi.org/10.1038/nprot.2013.099.
 
-Anders S, Pyl PT, Huber W. 2015. Htseq--a python framework to work with high-throughput sequencing data. Bioinformatics. 31(2): 166-169. doi: 10.1093/bioinformatics/btu638.
+Anders S, Pyl PT, Huber W. 2015. HTSeq--a python framework to work with high-throughput sequencing data. Bioinformatics. 31(2): 166-169. https://doi.org/10.1093/bioinformatics/btu638.
 
-Andrews S. 2015. Fastqc: A quality control tool for high throughput sequence data. Version 0.11.3. Cambridge, UK: Babraham Bioinformatics. https://www.bioinformatics.babraham.ac.uk/projects/fastqc/.
+Andrews S. 2015. FastQC: A quality control tool for high throughput sequence data. 0.11.9. Cambridge, UK: Babraham Bioinformatics. Online: 10 June 2020. https://www.bioinformatics.babraham.ac.uk/projects/fastqc/.
 
-Betel D, Wilson M, Gabow A, Marks DS, Sander C. 2008. The microrna.Org resource: Targets and expression. Nucleic Acids Research. 36(Database issue): D149-153. doi: 10.1093/nar/gkm995.
+Betel D, Wilson M, Gabow A, Marks DS, Sander C. 2008. The microRNA.Org resource: Targets and expression. Nucleic Acids Research. 36(Database issue): D149-153. https://doi.org/10.1093/nar/gkm995.
 
-Brown J, Phillips AR, Lewis DA, Mans MA, Chang Y, Tanguay RL, et al. 2019. Bioinformatics resource manager: A systems biology web tool for microrna and omics data integration. BMC Bioinformatics. 20(1): 255. doi: 10.1186/s12859-019-2805-6.
+Brown J, Phillips AR, Lewis DA, Mans MA, Chang Y, Tanguay RL, et al. 2019. Bioinformatics Resource Manager: A systems biology web tool for microRNA and omics data integration. BMC Bioinformatics. 20(1): 255. https://doi.org/10.1186/s12859-019-2805-6.
 
-Chen Y, Lun ATL, Smyth GK. 2014. Differential expression analysis of complex rna-seq experiments using edger. In: Statistical analysis of next generation sequencing data,  (Datta S, Nettleton D, eds). Cham, Switzerland:Springer International Publishing, 51-74.
+Chen Y, Lun ATL, Smyth GK. 2014. Differential expression analysis of complex RNA-seq experiments using edgeR. In: Statistical analysis of next generation sequencing data,  (Datta S, Nettleton D, eds). Cham, Switzerland:Springer International Publishing, 51-74.
 
-Chen Y, Lun AT, Smyth GK. 2016. From reads to genes to pathways: Differential expression analysis of rna-seq experiments using rsubread and the edger quasi-likelihood pipeline. F1000Research. 5: 1438. doi: 10.12688/f1000research.8987.2.
+Chen Y, Lun AT, Smyth GK. 2016. From reads to genes to pathways: Differential expression analysis of RNA-seq experiments using Rsubread and the edgeR quasi-likelihood pipeline. F1000Research. 5: 1438. https://doi.org/10.12688/f1000research.8987.2.
 
-Chou CH, Shrestha S, Yang CD, Chang NW, Lin YL, Liao KW, et al. 2018. Mirtarbase update 2018: A resource for experimentally validated microrna-target interactions. Nucleic Acids Research. 46(D1): D296-D302. doi: 10.1093/nar/gkx1067.
+Chou CH, Shrestha S, Yang CD, Chang NW, Lin YL, Liao KW, et al. 2018. miRTarBase update 2018: A resource for experimentally validated microRNA-target interactions. Nucleic Acids Research. 46(D1): D296-D302. https://doi.org/10.1093/nar/gkx1067.
 
-Durinck S, Moreau Y, Kasprzyk A, Davis S, De Moor B, Brazma A, et al. 2005. Biomart and bioconductor: A powerful link between biological databases and microarray data analysis. Bioinformatics. 21(16): 3439-3440. doi: 10.1093/bioinformatics/bti525.
+Friedlander MR, Mackowiak SD, Li N, Chen W, Rajewsky N. 2012. Mirdeep2 accurately identifies known and hundreds of novel microRNA genes in seven animal clades. Nucleic Acids Research. 40(1): 37-52. https://doi.org/10.1093/nar/gkr688.
 
-Durinck S, Spellman PT, Birney E, Huber W. 2009. Mapping identifiers for the integration of genomic datasets with the r/bioconductor package biomart. Nature Protocols. 4(8): 1184-1191. doi: 10.1038/nprot.2009.97.
+Garcia GR, Shankar P, Dunham CL, Garcia A, La Du JK, Truong L, et al. 2018. Signaling events downstream of AHR activation that contribute to toxic responses: The functional role of an AHR-dependent long noncoding RNA (slincR) using the zebrafish model. Environ Health Persp. 126(11): 117002. https://doi.org/10.1289/EHP3281.
 
-Friedlander MR, Mackowiak SD, Li N, Chen W, Rajewsky N. 2012. Mirdeep2 accurately identifies known and hundreds of novel microrna genes in seven animal clades. Nucleic Acids Research. 40(1): 37-52. doi: 10.1093/nar/gkr688.
+Gentleman RC, Carey VJ, Bates DM, Bolstad B, Dettling M, Dudoit S, et al. 2004. Bioconductor: Open software development for computational biology and bioinformatics. Genome Biology. 5(10): R80. https://doi.org/10.1186/gb-2004-5-10-r80.
 
-Galili T. 2015. Dendextend: An r package for visualizing, adjusting and comparing trees of hierarchical clustering. Bioinformatics. 31(22): 3718-3720. doi: 10.1093/bioinformatics/btv428.
+Gordon A, Hannon G. 2010. FASTX-toolkit. Version 0.0.13Cold Spring Harbor Laboratory. http://hannonlab.cshl.edu/fastx_toolkit/index.html.
 
-Garcia GR, Shankar P, Dunham CL, Garcia A, La Du JK, Truong L, et al. 2018. Signaling events downstream of ahr activation that contribute to toxic responses: The functional role of an ahr-dependent long noncoding rna (slincr) using the zebrafish model. Environmental Health Perspectives. 126(11): 117002. doi: 10.1289/EHP3281.
+Griffiths-Jones S. 2004. The microRNA registry. Nucleic Acids Research. 32(Database issue): D109-111. https://doi.org/10.1093/nar/gkh023.
 
-Gentleman RC, Carey VJ, Bates DM, Bolstad B, Dettling M, Dudoit S, et al. 2004. Bioconductor: Open software development for computational biology and bioinformatics. Genome Biology. 5(10): R80. doi: 10.1186/gb-2004-5-10-r80.
+Griffiths-Jones S, Grocock RJ, van Dongen S, Bateman A, Enright AJ. 2006. miRBase: microRNA sequences, targets and gene nomenclature. Nucleic Acids Research. 34(Database issue): D140-144. https://doi.org/10.1093/nar/gkj112.
 
-Gordon A, Hannon G. 2010. Fastx-toolkit. Version 0.0.13Cold Spring Harbor Laboratory. http://hannonlab.cshl.edu/fastx_toolkit/index.html.
+Griffiths-Jones S, Saini HK, van Dongen S, Enright AJ. 2008. miRBase: Tools for microRNA genomics. Nucleic Acids Research. 36(Database issue): D154-158. https://doi.org/10.1093/nar/gkm952.
 
-Griffiths-Jones S. 2004. The microrna registry. Nucleic Acids Research. 32(Database issue): D109-111. doi: 10.1093/nar/gkh023.
+Huber W, Carey VJ, Gentleman R, Anders S, Carlson M, Carvalho BS, et al. 2015. Orchestrating high-throughput genomic analysis with Bioconductor. Nature methods. 12(2): 115-121. https://doi.org/10.1038/nmeth.3252.
 
-Griffiths-Jones S, Grocock RJ, van Dongen S, Bateman A, Enright AJ. 2006. Mirbase: Microrna sequences, targets and gene nomenclature. Nucleic Acids Research. 34(Database issue): D140-144. doi: 10.1093/nar/gkj112.
+Jiang H, Lei R, Ding SW, Zhu S. 2014. Skewer: A fast and accurate adapter trimmer for next-generation sequencing paired-end reads. BMC Bioinformatics. 15: 182. https://doi.org/10.1186/1471-2105-15-182.
 
-Griffiths-Jones S, Saini HK, van Dongen S, Enright AJ. 2008. Mirbase: Tools for microrna genomics. Nucleic Acids Research. 36(Database issue): D154-158. doi: 10.1093/nar/gkm952.
+Kim D, Langmead B, Salzberg SL. 2015. HISAT: A fast spliced aligner with low memory requirements. Nat Methods. 12(4): 357-360. https://doi.org/10.1038/nmeth.3317.
 
-Gu Z, Eils R, Schlesner M. 2016. Complex heatmaps reveal patterns and correlations in multidimensional genomic data. Bioinformatics. 32(18): 2847-2849. doi: 10.1093/bioinformatics/btw313.
+Kim D, Paggi JM, Park C, Bennett C, Salzberg SL. 2019. Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype. Nat Biotechnol. 37(8): 907-915. https://doi.org/10.1038/s41587-019-0201-4.
 
-Huber W, Carey VJ, Gentleman R, Anders S, Carlson M, Carvalho BS, et al. 2015. Orchestrating high-throughput genomic analysis with bioconductor. Nature methods. 12(2): 115-121. doi: 10.1038/nmeth.3252.
+Kozomara A, Griffiths-Jones S. 2011. miRBase: Integrating microRNA annotation and deep-sequencing data. Nucleic Acids Research. 39(Database issue): D152-157. https://doi.org/10.1093/nar/gkq1027.
 
-Jiang H, Lei R, Ding SW, Zhu S. 2014. Skewer: A fast and accurate adapter trimmer for next-generation sequencing paired-end reads. BMC Bioinformatics. 15: 182. doi: 10.1186/1471-2105-15-182.
+Kozomara A, Griffiths-Jones S. 2014. miRBase: Annotating high confidence microRNAs using deep sequencing data. Nucleic Acids Research. 42(Database issue): D68-73. https://doi.org/10.1093/nar/gkt1181.
 
-Kim D, Langmead B, Salzberg SL. 2015. Hisat: A fast spliced aligner with low memory requirements. Nat Methods. 12(4): 357-360. doi: 10.1038/nmeth.3317.
+Kozomara A, Birgaoanu M, Griffiths-Jones S. 2019. miRBase: From microRNA sequences to function. Nucleic Acids Research. 47(D1): D155-D162. https://doi.org/10.1093/nar/gky1141.
 
-Kim D, Paggi JM, Park C, Bennett C, Salzberg SL. 2019. Graph-based genome alignment and genotyping with hisat2 and hisat-genotype. Nat Biotechnol. 37(8): 907-915. doi: 10.1038/s41587-019-0201-4.
+Langmead B, Trapnell C, Pop M, Salzberg SL. 2009. Ultrafast and memory-efficient alignment of short DNA sequences to the human genome. Genome Biology. 10(3): R25. https://doi.org/10.1186/gb-2009-10-3-r25.
 
-Kozomara A, Griffiths-Jones S. 2011. Mirbase: Integrating microrna annotation and deep-sequencing data. Nucleic Acids Research. 39(Database issue): D152-157. doi: 10.1093/nar/gkq1027.
+Langmead B, Salzberg SL. 2012. Fast gapped-read alignment with Bowtie 2. Nature methods. 9(4): 357-359. https://doi.org/10.1038/nmeth.1923.
 
-Kozomara A, Griffiths-Jones S. 2014. Mirbase: Annotating high confidence micrornas using deep sequencing data. Nucleic Acids Research. 42(Database issue): D68-73. doi: 10.1093/nar/gkt1181.
+Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, et al. 2009. The sequence alignment/map format and SAMtools. Bioinformatics. 25(16): 2078-2079. https://doi.org/10.1093/bioinformatics/btp352.
 
-Kozomara A, Birgaoanu M, Griffiths-Jones S. 2019. Mirbase: From microrna sequences to function. Nucleic Acids Research. 47(D1): D155-D162. doi: 10.1093/nar/gky1141.
+Lun AT, Chen Y, Smyth GK. 2016. It's DE-licious: A recipe for differential expression analyses of RNA-seq experiments using quasi-likelihood methods in edgeR. Methods in Molecular Biology. 1418: 391-416. https://doi.org/10.1007/978-1-4939-3578-9_19.
 
-Langmead B, Trapnell C, Pop M, Salzberg SL. 2009. Ultrafast and memory-efficient alignment of short DNA sequences to the human genome. Genome Biology. 10(3): R25. doi: 10.1186/gb-2009-10-3-r25.
+McCarthy DJ, Smyth GK. 2009. Testing significance relative to a fold-change threshold is a TREAT. Bioinformatics. 25(6): 765-771. https://doi.org/10.1093/bioinformatics/btp053.
 
-Langmead B, Salzberg SL. 2012. Fast gapped-read alignment with bowtie 2. Nature methods. 9(4): 357-359. doi: 10.1038/nmeth.1923.
-
-Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, et al. 2009. The sequence alignment/map format and samtools. Bioinformatics. 25(16): 2078-2079. doi: 10.1093/bioinformatics/btp352.
-
-Love MI, Anders S, Kim V, Huber W. 2015. Rna-seq workflow: Gene-level exploratory analysis and differential expression. F1000Research. 4: 1070. doi: 10.12688/f1000research.7035.1.
-
-Lun AT, Chen Y, Smyth GK. 2016. It's de-licious: A recipe for differential expression analyses of rna-seq experiments using quasi-likelihood methods in edger. Methods in Molecular Biology. 1418: 391-416. doi: 10.1007/978-1-4939-3578-9_19.
-
-McCarthy DJ, Smyth GK. 2009. Testing significance relative to a fold-change threshold is a treat. Bioinformatics. 25(6): 765-771. doi: 10.1093/bioinformatics/btp053.
-
-McCarthy DJ, Chen Y, Smyth GK. 2012. Differential expression analysis of multifactor rna-seq experiments with respect to biological variation. Nucleic Acids Research. 40(10): 4288-4297. doi: 10.1093/nar/gks042.
+McCarthy DJ, Chen Y, Smyth GK. 2012. Differential expression analysis of multifactor RNA-seq experiments with respect to biological variation. Nucleic Acids Research. 40(10): 4288-4297. https://doi.org/10.1093/nar/gks042.
 
 R Core Team. 2019. R: A language and environment for statistical computing. Version 3.6.0. Vienna, Austria: R Foundation for Statistical Computing. https://www.R-project.org/.
 
-Robinson MD, Smyth GK. 2007. Moderated statistical tests for assessing differences in tag abundance. Bioinformatics. 23(21): 2881-2887. doi: 10.1093/bioinformatics/btm453.
+Robinson MD, Smyth GK. 2007. Moderated statistical tests for assessing differences in tag abundance. Bioinformatics. 23(21): 2881-2887. https://doi.org/10.1093/bioinformatics/btm453.
 
-Robinson MD, Smyth GK. 2008. Small-sample estimation of negative binomial dispersion, with applications to sage data. Biostatistics. 9(2): 321-332. doi: 10.1093/biostatistics/kxm030.
+Robinson MD, Smyth GK. 2008. Small-sample estimation of negative binomial dispersion, with applications to SAGE data. Biostatistics. 9(2): 321-332. https://doi.org/10.1093/biostatistics/kxm030.
 
-Robinson MD, McCarthy DJ, Smyth GK. 2010. Edger: A bioconductor package for differential expression analysis of digital gene expression data. Bioinformatics. 26(1): 139-140. doi: 10.1093/bioinformatics/btp616.
+Robinson MD, McCarthy DJ, Smyth GK. 2010. edgeR: A Bioconductor package for differential expression analysis of digital gene expression data. Bioinformatics. 26(1): 139-140. https://doi.org/10.1093/bioinformatics/btp616.
 
-Robinson MD, Oshlack A. 2010. A scaling normalization method for differential expression analysis of rna-seq data. Genome Biology. 11(3): R25. doi: 10.1186/gb-2010-11-3-r25.
+Robinson MD, Oshlack A. 2010. A scaling normalization method for differential expression analysis of RNA-seq data. Genome Biology. 11(3): R25. https://doi.org/10.1186/gb-2010-11-3-r25.
 
-RStudio Team. 2018. Rstudio: Integrated development for r. Version 1.2.1335. Boston, MA: RStudio, Inc. http://www.rstudio.com/.
+RStudio Team. 2018. RStudio: Integrated development for R. Version 1.2.1335. Boston, MA: RStudio, Inc., PBC. http://www.rstudio.com/.
 
-Su S, Law CW, Ah-Cann C, Asselin-Labat ML, Blewitt ME, Ritchie ME. 2017. Glimma: Interactive graphics for gene expression analysis. Bioinformatics. 33(13): 2050-2052. doi: 10.1093/bioinformatics/btx094.
+Su S, Law CW, Ah-Cann C, Asselin-Labat ML, Blewitt ME, Ritchie ME. 2017. Glimma: Interactive graphics for gene expression analysis. Bioinformatics. 33(13): 2050-2052. https://doi.org/10.1093/bioinformatics/btx094.
 
-The Gene Ontology Consortium. 2019. The gene ontology resource: 20 years and still going strong. Nucleic Acids Research. 47(D1): D330-D338. doi: 10.1093/nar/gky1055.
+The Gene Ontology Consortium. 2019. The Gene Ontology Resource: 20 years and still GOing strong. Nucleic Acids Research. 47(D1): D330-D338. https://doi.org/10.1093/nar/gky1055.
 
-Tilton SC, Tal TL, Scroggins SM, Franzosa JA, Peterson ES, Tanguay RL, et al. 2012. Bioinformatics resource manager v2.3: An integrated software environment for systems biology with microrna and cross-species analysis tools. BMC Bioinformatics. 13(1): 311. doi: 10.1186/1471-2105-13-311.
+Tilton SC, Tal TL, Scroggins SM, Franzosa JA, Peterson ES, Tanguay RL, et al. 2012. Bioinformatics Resource Manager v2.3: An integrated software environment for systems biology with microRNA and cross-species analysis tools. BMC Bioinformatics. 13(1): 311. https://doi.org/10.1186/1471-2105-13-311.
