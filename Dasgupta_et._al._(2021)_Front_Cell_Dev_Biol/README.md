@@ -4,7 +4,8 @@ doi: 10.3389/fcell.2021.663032](https://www.frontiersin.org/articles/10.3389/fce
 
 <br>
 
-## [Detailed RNA Sequencing Analysis Methods](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/FRC_Manuscript_Methods_NGS_Analysis.md)
+## Detailed Methods
+[Detailed RNA Sequencing Analysis Methods](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/FRC_Manuscript_Methods_NGS_Analysis.md)
 
 <br>
 
