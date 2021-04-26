@@ -10,8 +10,6 @@ doi: 10.3389/fcell.2021.663032](https://www.frontiersin.org/articles/10.3389/fce
 <br>
 
 ## Supplemental Files
-[Supplemental Sequencing Analysis Methods](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/FRC_Manuscript_Methods_NGS_Analysis.md)
-
 Supplemental File [FRC_adapters.fa](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/FRC_adapters.fa)
 
 Supplemental File [hisat2_extract_snps_haplotypes_VCF_CD.py](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/hisat2_extract_snps_haplotypes_VCF_CD.py)
