@@ -1,3 +1,12 @@
+# Phenotypically Anchored mRNA and miRNA Expression Profiling in Zebrafish Reveals Flame Retardant Chemical Toxicity Networks
+Subham Dasgupta<sup>1</sup>, Cheryl L. Dunham<sup>1</sup>, Lisa Truong<sup>1</sup>, Michael T. Simonich<sup>1</sup>, Christopher M. Sullivan<sup>2</sup>, and Robyn L. Tanguay<sup>1</sup>
+<br><br>
+### Author affiliations:
+  1. The Sinnhuber Aquatic Research Laboratory, Department of Environmental and Molecular Toxicology, Oregon State University, Corvallis, OR, United States
+  2. Center for Genome Research and Computing, Oregon State University, Corvallis, OR, United States
+
+<br>
+
 ## Citation
 Please cite the following if you use information or files from this repository:
 <br><br>
