@@ -38,9 +38,9 @@ The ubiquitous use of flame retardant chemicals (FRCs) in the manufacture of man
 <br>
 
 ## Supplemental Files
-Supplemental File [FRC_adapters.fa](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/FRC_adapters.fa)
+Supplemental File [FRC_adapters.fa](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/FRC_adapters.fa)
 
-Supplemental File [hisat2_extract_snps_haplotypes_VCF_CD.py](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/hisat2_extract_snps_haplotypes_VCF_CD.py)
+Supplemental File [hisat2_extract_snps_haplotypes_VCF_CD.py](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/hisat2_extract_snps_haplotypes_VCF_CD.py)
 
 Supplemental File [Differential_gene_analysis_custom_script.R](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Differential_gene_analysis_custom_script.R)
 
