@@ -9,11 +9,15 @@ Subham Dasgupta<sup>1</sup>, Cheryl L. Dunham<sup>1</sup>, Lisa Truong<sup>1</su
 
 ## Citation
 Please cite the following if you use information or files from this repository:
-<br><br>
+<br><br><br>
 Dasgupta S, Dunham CL, Truong L, Simonich MT, Sullivan CM, and Tanguay RL. (2021). Phenotypically Anchored mRNA and miRNA Expression Profiling in Zebrafish Reveals Flame Retardant Chemical Toxicity Networks. *__Frontiers in Cell and Developmental Biology__*. 9:663032. 
 doi: [10.3389/fcell.2021.663032](https://www.frontiersin.org/articles/10.3389/fcell.2021.663032/)
 
+<br>
+
 Gene Expression Omnibus (GEO) Accession Number: [GSE169013](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169013)
+<br>
+Sequence Read Archive (SRA) Accession Number: [SRP310924](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP310924)
 <br>
 PubMed ID: [33898466](https://pubmed.ncbi.nlm.nih.gov/33898466/)
 <br>
