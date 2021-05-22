@@ -1,11 +1,13 @@
 ###########################################################################
-##  Script by Cheryl Dunham                                              ##
+##  Script and Data Analysis by Cheryl L Dunham                          ##
 ##                                                                       ##
 ##  Budding Bioinformatician                                             ##
 ##  Tanguay Laboratory | Sinnhuber Aquatic Research Laboratory (SARL)    ##
+##  Environmental and Molecular Toxicology                               ##
+##  Oregon State University                                              ##
+##                                                                       ##
 ##  28645 E Hwy 34                                                       ##
 ##  Corvallis, OR 97333                                                  ##
-##  Oregon State University                                              ##
 ##                                                                       ##
 ##  (541) 737-6500                                                       ##
 ##  dunhamcg@gmail.com                                                   ##
