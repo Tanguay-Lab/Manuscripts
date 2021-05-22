@@ -7,6 +7,7 @@
 // Customized by Cheryl L. Dunham
 // Budding Bioinformatician
 // Tanguay Lab | Sinnhuber Aquatic Research Laboratory (SARL)
+// Environmental and Molecular Toxicology
 // Oregon State University
 // Corvallis, Oregon
 // phone: (541) 737-3608
