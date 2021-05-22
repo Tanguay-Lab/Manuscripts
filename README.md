@@ -1,9 +1,12 @@
+<br>
+<br>
+
 <p align="center">
   <img width="320" height="180" src="https://i.ytimg.com/vi/nrxqRUEaY2c/mqdefault.jpg">
 </p>
 
 # Manuscripts
 
-[Dasgupta S, Dunham CL, Truong L, Simonich MT, Sullivan CM, and Tanguay RL. (2021). Phenotypically Anchored mRNA and miRNA Expression Profiling in Zebrafish Reveals Flame Retardant Chemical Toxicity Networks. *Frontiers in Cell and Developmental Biology*. 9:663032. doi: 10.3389/fcell.2021.663032](https://github.com/Tanguay-Lab/Manuscripts/tree/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol)
+Dasgupta S, Dunham CL, Truong L, Simonich MT, Sullivan CM, and Tanguay RL. (2021). [Phenotypically Anchored mRNA and miRNA Expression Profiling in Zebrafish Reveals Flame Retardant Chemical Toxicity Networks](https://github.com/Tanguay-Lab/Manuscripts/wiki/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol). *Frontiers in Cell and Developmental Biology*. 9:663032. doi: [10.3389/fcell.2021.663032](https://github.com/Tanguay-Lab/Manuscripts/tree/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol)
 
 
