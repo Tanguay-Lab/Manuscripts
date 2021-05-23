@@ -1,30 +1,21 @@
-SUPPLEMENTAL INFORMATION
-The multi-dimensional embryonic zebrafish platform predicts flame retardant bioactivity
-Lisa Truonga, Skylar Marvelb, David M. Reifb, Dennis Thomasc, Paritosh Pande c, Subham Dasguptaa, Michael T. Simonicha, Katrina M. Watersa,c and Robyn L. Tanguaya*
+## SUPPLEMENTAL INFORMATION
+### The multi-dimensional embryonic zebrafish platform predicts flame retardant bioactivity
 
-a Department of Environmental and Molecular Toxicology, the Sinnhuber Aquatic Research Laboratory, and the Environmental Health Sciences Center at Oregon State University, Corvallis, OR, USA
-b Bioinformatics Research Center, Department of Biological Sciences, North Carolina State University, Raleigh, NC, USA
-c Biological Sciences Division, Pacific Northwest Laboratory, 902 Battelle Boulevard, P.O. Box 999, Richland, WA 99352 USA
+Lisa Truong<sup>1</sup>, Skylar Marvel<sup>2</sup>, David M. Reif<sup>2</sup>, Dennis Thomas<sup>3</sup>, Paritosh Pande<sup>4</sup>, Subham Dasgupta<sup>1</sup>, Michael T. Simonich<sup>1</sup>, Katrina M. Watersa<sup>3</sup>, and Robyn L. Tanguay<sup>1</sup>
 
-
-
+  1. Department of Environmental and Molecular Toxicology, the Sinnhuber Aquatic Research Laboratory, and the Environmental Health Sciences Center at Oregon State University, Corvallis, OR, USA
+  2. Bioinformatics Research Center, Department of Biological Sciences, North Carolina State University, Raleigh, NC, USA
+  3. Biological Sciences Division, Pacific Northwest Laboratory, 902 Battelle Boulevard, P.O. Box 999, Richland, WA 99352 USA
 
 
-
-Number of files: 6
-Number of figures: 1
-Number of tables: 4
-R Code: 2
-
-
-Figure S1 – The hierarchical clustering of the 45 FRC ToxCast profile. 
-Table S1 – Chemical data and raw data for Figures 2 and 3
+### Table S1 – Chemical Data and Raw Data for Figures 2 and 3
 * Table S1A - ChemProps and class – FRC properties, class, and sources for the 61 FRCs.
 * Table S1B- LEL hit table – summary hit table used to generate the heatmap (expressed in uM)
 * Table S1C- BMD – BMD values for each FRC and the 22 endpoints. 10000[SM1] indicates no bioactivity
 * Table S1D - ToxCast Analysis – ToxCast data for the 45 FRCs
 * Table S1E-Comparison of 12 FRCs – in vitro and in vivo LEC, POD or BMD values (log transformed)
-Table S2 – Raw zebrafish data 
+
+### Table S2 – Raw Zebrafish Data 
 * my_key: 
 * chemical.ID (Tanguay Lab IDs used throughout)
 * preferred_name – preferred name of FRC
@@ -34,7 +25,8 @@ Table S2 – Raw zebrafish data
 * morph – developmental exposure raw morphology data 
 * behav_24 – EPR raw data (bin every second)
 * behav_5d – LPR raw data (bin every 6 seconds)
-Table S3 – Model input and results
+
+### Table S3 – Model Input and Results
 * Table S3A - Model input (LEC) – The data matrix input into the model with LEC responses
 * Table S3B - Model input (BMD) - The data matrix input into the model with BMD responses
 * Table S3C -  MI (BMD, LEC) – The data matrix input into the model with BMD and LEC responses
@@ -47,14 +39,8 @@ Table S3 – Model input and results
 * Table S3J – MO (all) - Summary Results, and model input for the training and test set using all endpoints 
 * Table S3K – MO BMD (morph only) - Summary Results, and model input for the training and test set using physical properties and BMD for zebrafish morphology only
 
-Table S4 – Data Dictionary
+### Table S4 – Data Dictionary
 
-R Code (zip file): http://tanguaylab.com/wp-content/uploads/2020/05/Truong-et-al-2020-SI-R-Code.zip
-SI1 – Noyes hit call comparison R script 
-SI2 – Model R script: 
-
-
-
-
-[SM1]I think the manuscript says 100,000; line 200
-
+### R Code and Related Files
+* SI1 – Noyes Hit Call Comparison R Script
+* SI2 – Classification Model R script
