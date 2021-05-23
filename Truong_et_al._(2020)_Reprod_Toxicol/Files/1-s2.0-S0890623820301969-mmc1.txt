@@ -17,43 +17,44 @@ Number of tables: 4
 R Code: 2
 
 
-Figure S1 – The hierarchical clustering of the 45 FRC ToxCast profile. 
-Table S1 – Chemical data and raw data for Figures 2 and 3
-* Table S1A - ChemProps and class – FRC properties, class, and sources for the 61 FRCs.
-* Table S1B- LEL hit table – summary hit table used to generate the heatmap (expressed in uM)
-* Table S1C- BMD – BMD values for each FRC and the 22 endpoints. 10000[SM1] indicates no bioactivity
-* Table S1D - ToxCast Analysis – ToxCast data for the 45 FRCs
-* Table S1E-Comparison of 12 FRCs – in vitro and in vivo LEC, POD or BMD values (log transformed)
-Table S2 – Raw zebrafish data 
+Figure S1 â€“ The hierarchical clustering of the 45 FRC ToxCast profile. 
+Table S1 â€“ Chemical data and raw data for Figures 2 and 3
+* Table S1A - ChemProps and class â€“ FRC properties, class, and sources for the 61 FRCs.
+* Table S1B- LEL hit table â€“ summary hit table used to generate the heatmap (expressed in uM)
+* Table S1C- BMD â€“ BMD values for each FRC and the 22 endpoints. 10000[SM1] indicates no bioactivity
+* Table S1D - ToxCast Analysis â€“ ToxCast data for the 45 FRCs
+* Table S1E-Comparison of 12 FRCs â€“ in vitro and in vivo LEC, POD or BMD values (log transformed)
+Table S2 â€“ Raw zebrafish data 
 * my_key: 
 * chemical.ID (Tanguay Lab IDs used throughout)
-* preferred_name – preferred name of FRC
-* casrn – cas number
-* pd_sample – EPA NCCT ID
-* gsid – EPA ID
-* morph – developmental exposure raw morphology data 
-* behav_24 – EPR raw data (bin every second)
-* behav_5d – LPR raw data (bin every 6 seconds)
-Table S3 – Model input and results
-* Table S3A - Model input (LEC) – The data matrix input into the model with LEC responses
+* preferred_name â€“ preferred name of FRC
+* casrn â€“ cas number
+* pd_sample â€“ EPA NCCT ID
+* gsid â€“ EPA ID
+* morph â€“ developmental exposure raw morphology data 
+* behav_24 â€“ EPR raw data (bin every second)
+* behav_5d â€“ LPR raw data (bin every 6 seconds)
+Table S3 â€“ Model input and results
+* Table S3A - Model input (LEC) â€“ The data matrix input into the model with LEC responses
 * Table S3B - Model input (BMD) - The data matrix input into the model with BMD responses
-* Table S3C -  MI (BMD, LEC) – The data matrix input into the model with BMD and LEC responses
-* Table S3D -  MI phys chem – The data matrix input into the model with the 13 physico-chemical properties
-* Table S3E - Model Output LEC – Summary Results, and model input for the training and test set using physical properties and LEC values
-* Table S3F – MO Phys Chem - Summary Results, and model input for the training and test set using the 13 physico-chemical properties
-* Table S3G – MO BMD (Morph, AUC) - Summary Results, and model input for the training and test set using physical properties and BMD values for morphology and AUC calculation for LPR
-* Table S3H – MO BMD (Morph, MOV) - Summary Results, and model input for the training and test set using BMD values for morphology and MOV calculation for LPR
-* Table S3I – MO BMD (all) - Summary Results, and model input for the training and test set using physical properties and BMD values for morphology and both LPR endpoints
-* Table S3J – MO (all) - Summary Results, and model input for the training and test set using all endpoints 
-* Table S3K – MO BMD (morph only) - Summary Results, and model input for the training and test set using physical properties and BMD for zebrafish morphology only
+* Table S3C -  MI (BMD, LEC) â€“ The data matrix input into the model with BMD and LEC responses
+* Table S3D -  MI phys chem â€“ The data matrix input into the model with the 13 physico-chemical properties
+* Table S3E - Model Output LEC â€“ Summary Results, and model input for the training and test set using physical properties and LEC values
+* Table S3F â€“ MO Phys Chem - Summary Results, and model input for the training and test set using the 13 physico-chemical properties
+* Table S3G â€“ MO BMD (Morph, AUC) - Summary Results, and model input for the training and test set using physical properties and BMD values for morphology and AUC calculation for LPR
+* Table S3H â€“ MO BMD (Morph, MOV) - Summary Results, and model input for the training and test set using BMD values for morphology and MOV calculation for LPR
+* Table S3I â€“ MO BMD (all) - Summary Results, and model input for the training and test set using physical properties and BMD values for morphology and both LPR endpoints
+* Table S3J â€“ MO (all) - Summary Results, and model input for the training and test set using all endpoints 
+* Table S3K â€“ MO BMD (morph only) - Summary Results, and model input for the training and test set using physical properties and BMD for zebrafish morphology only
 
-Table S4 – Data Dictionary
+Table S4 â€“ Data Dictionary
 
 R Code (zip file): http://tanguaylab.com/wp-content/uploads/2020/05/Truong-et-al-2020-SI-R-Code.zip
-SI1 – Noyes hit call comparison R script 
-SI2 – Model R script: 
+SI1 â€“ Noyes hit call comparison R script 
+SI2 â€“ Model R script: 
 
 
 
 
 [SM1]I think the manuscript says 100,000; line 200
+
