@@ -1,7 +1,7 @@
 ## SUPPLEMENTAL INFORMATION
 ### The multi-dimensional embryonic zebrafish platform predicts flame retardant bioactivity
 
-Lisa Truong<sup>1</sup>, Skylar Marvel<sup>2</sup>, David M. Reif<sup>2</sup>, Dennis Thomas<sup>3</sup>, Paritosh Pande<sup>4</sup>, Subham Dasgupta<sup>1</sup>, Michael T. Simonich<sup>1</sup>, Katrina M. Watersa<sup>3</sup>, and Robyn L. Tanguay<sup>1</sup>
+Lisa Truong<sup>1</sup>, Skylar Marvel<sup>2</sup>, David M. Reif<sup>2</sup>, Dennis Thomas<sup>3</sup>, Paritosh Pande<sup>4</sup>, Subham Dasgupta<sup>1</sup>, Michael T. Simonich<sup>1</sup>, Katrina M. Watersa<sup>1,3</sup>, and Robyn L. Tanguay<sup>1</sup>
 
   1. Department of Environmental and Molecular Toxicology, the Sinnhuber Aquatic Research Laboratory, and the Environmental Health Sciences Center at Oregon State University, Corvallis, OR, USA
   2. Bioinformatics Research Center, Department of Biological Sciences, North Carolina State University, Raleigh, NC, USA
