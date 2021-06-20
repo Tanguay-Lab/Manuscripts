@@ -1,12 +1,9 @@
 ## SUPPLEMENTAL INFORMATION
-### The multi-dimensional embryonic zebrafish platform predicts flame retardant bioactivity
+Please cite the following if you use information or files from this repository:
+<br><br>
+Truong L, Marvel S, Reif DM, Thomas D, Pande P, Dasgupta S, Simonich MT, Waters KM, and Tanguay RL. (2020). The multi-dimensional embryonic zebrafish platform predicts flame retardant bioactivity. *Reproductive Toxicology*. **96**: 359-369.  doi:[10.1016/j.reprotox.2020.08.007](https://doi.org/10.1016/j.reprotox.2020.08.007).
 
-Lisa Truong<sup>1</sup>, Skylar Marvel<sup>2</sup>, David M. Reif<sup>2</sup>, Dennis Thomas<sup>3</sup>, Paritosh Pande<sup>4</sup>, Subham Dasgupta<sup>1</sup>, Michael T. Simonich<sup>1</sup>, Katrina M. Watersa<sup>1,3</sup>, and Robyn L. Tanguay<sup>1</sup>
-
-  1. Department of Environmental and Molecular Toxicology, the Sinnhuber Aquatic Research Laboratory, and the Environmental Health Sciences Center at Oregon State University, Corvallis, OR, USA
-  2. Bioinformatics Research Center, Department of Biological Sciences, North Carolina State University, Raleigh, NC, USA
-  3. Biological Sciences Division, Pacific Northwest Laboratory, 902 Battelle Boulevard, P.O. Box 999, Richland, WA 99352 USA
-
+<br><br>
 
 ### [Table S1 – Chemical Data and Raw Data for Figures 2 and 3](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Truong_et_al._(2020)_Reprod_Toxicol/Files/Supplemental_Table_1.xlsx)
 * Table S1A - ChemProps and class – FRC properties, class, and sources for the 61 FRCs.
@@ -44,3 +41,10 @@ Lisa Truong<sup>1</sup>, Skylar Marvel<sup>2</sup>, David M. Reif<sup>2</sup>, D
 ### R Code and Related Files
 * [SI1 – Noyes Hit Call Comparison R Script](https://github.com/Tanguay-Lab/Manuscripts/tree/main/Truong_et_al._(2020)_Reprod_Toxicol/Files/Hit_Comparison)
 * [SI2 – Classification Model R script](https://github.com/Tanguay-Lab/Manuscripts/tree/main/Truong_et_al._(2020)_Reprod_Toxicol/Files/Classification_Model)
+
+<br>
+
+### Copyright
+Copyright © 2020 Truong, Marvel, Reif, Thomas, Pande, Dasgupta, Simonich, Waters, and Tanguay. This is an open-access article distributed under the terms of the [Creative Commons Attribution License (CC BY-NC-ND)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
