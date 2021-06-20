@@ -1,11 +1,10 @@
-## Citation
+## SUPPLEMENTAL INFORMATION
 Please cite the following if you use information or files from this repository:
 <br><br><br>
 Shankar P, Geier MC, Truong L, McClure RS, Pande P, Waters KM, and Tanguay RL. (2019). Coupling genome-wide transcriptomics and developmental toxicity profiles in zebrafish to characterize polycyclic aromatic hydrocarbon (PAH) hazard. *International Journal of Molecular Sciences*. **20**(10). doi:[10.1016/j.reprotox.2020.08.007](https://doi.org/10.3390/ijms20102570).
 
-<br>
+<br><br><br>
 
-## Supplemental Files
 ### [Supplemental Table 1](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Shankar_2019_Int_J_Mol_Sci/Files/Supplemental_Table_1.xlsx)
 * Table S1 - List of 123 PAHs, the lowest effect level (LEL) exposure concentrations for each endpoint measured, and the developmental toxicity bins of each PAH 
 * Table S2 - List of DEGs (fold-change > 1.5, adjusted _p_-value < 0.05) for 14 of the 16 PAHs. 3-NF and 1,5- DMN had zero DEGs 
