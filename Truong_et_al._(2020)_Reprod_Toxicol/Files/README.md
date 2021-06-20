@@ -1,9 +1,9 @@
 ## SUPPLEMENTAL INFORMATION
 Please cite the following if you use information or files from this repository:
-<br><br>
-Truong L, Marvel S, Reif DM, Thomas D, Pande P, Dasgupta S, Simonich MT, Waters KM, and Tanguay RL. (2020). The multi-dimensional embryonic zebrafish platform predicts flame retardant bioactivity. *Reproductive Toxicology*. **96**: 359-369.  doi:[10.1016/j.reprotox.2020.08.007](https://doi.org/10.1016/j.reprotox.2020.08.007).
+<br><br><br>
 
-<br><br>
+Truong L, Marvel S, Reif DM, Thomas D, Pande P, Dasgupta S, Simonich MT, Waters KM, and Tanguay RL. (2020). The multi-dimensional embryonic zebrafish platform predicts flame retardant bioactivity. *Reproductive Toxicology*. **96**: 359-369.  doi:[10.1016/j.reprotox.2020.08.007](https://doi.org/10.1016/j.reprotox.2020.08.007).
+<br><br><br>
 
 ### [Table S1 – Chemical Data and Raw Data for Figures 2 and 3](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Truong_et_al._(2020)_Reprod_Toxicol/Files/Supplemental_Table_1.xlsx)
 * Table S1A - ChemProps and class – FRC properties, class, and sources for the 61 FRCs.
