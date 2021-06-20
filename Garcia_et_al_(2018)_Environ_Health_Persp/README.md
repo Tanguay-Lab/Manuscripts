@@ -12,7 +12,7 @@ Gloria R. Garcia<sup>1</sup>, Prarthana Shankar<sup>1</sup>, Cheryl L. Dunham<su
 ## Citation
 Please cite the following if you use information or files from this repository:
 <br><br><br>
-Garcia GR, Shankar P, Dunham CL, Garcia A, La Du JK, Truong L, Tilton SC, and Tanguay RL. (2018). Signaling events downstream of AHR activation that contribute to toxic responses: The functional role of an AHR-dependent long noncoding RNA (slincR) using the zebrafish model. Environmental Health Perspectives. 126(11): 117002. doi:[10.1289/EHP3281](https://doi.org/10.1289/EHP3281).
+Garcia GR, Shankar P, Dunham CL, Garcia A, La Du JK, Truong L, Tilton SC, and Tanguay RL. (2018). Signaling events downstream of AHR activation that contribute to toxic responses: The functional role of an AHR-dependent long noncoding RNA (*slincR*) using the zebrafish model. *Environmental Health Perspectives*. **126**(11): 117002. doi:[10.1289/EHP3281](https://doi.org/10.1289/EHP3281).
 
 <br>
 
