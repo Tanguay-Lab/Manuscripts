@@ -16,11 +16,11 @@ Truong L, Marvel S, Reif DM, Thomas D, Pande P, Dasgupta S, Simonich MT, Waters 
 
 ### [Table S2 – Raw Zebrafish Data](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Truong_et_al._(2020)_Reprod_Toxicol/Files/Supplemental_Table_2.zip)
 * my_key: 
-* chemical.ID (Tanguay Lab IDs used throughout)
-* preferred_name – preferred name of FRC
-* casrn – cas number
-* pd_sample – EPA NCCT ID
-* gsid – EPA ID
+  - chemical.ID - Tanguay Lab IDs used throughout
+  - preferred_name – preferred name of FRC
+  - casrn – cas number
+  - pd_sample – EPA NCCT ID
+  - gsid – EPA ID
 * morph – developmental exposure raw morphology data 
 * behav_24 – EPR raw data (bin every second)
 * behav_5d – LPR raw data (bin every 6 seconds)
