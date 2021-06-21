@@ -106,18 +106,18 @@ Tilton SC, Tal TL, Scroggins SM, Franzosa JA, Peterson ES, Tanguay RL, and Water
 <br>
 
 ## Supplemental Files
-### [Table S1 - Phenotypic, behavioral, mRNA and miR data for the selected FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Table_S1.xlsx)
+### [Table S1 - Phenotypic, behavioral, mRNA and miR data for the selected FRCs](https://github.com/Tanguay-Lab/Manuscripts/tree/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Table_1.xlsx)
 * Phenotyping and behavioral data represented as lowest effect levels (LELs, Table S1.1)
 * mRNA and miR data represented as log2 fold changes (Tables S1.2 and S1.3) 
 * Blank cells represent fold changes below statistical or fold change thresholds
 
-### [Table S2 - TFmiR miR-TF-miR interaction data for all FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Table_S2.xlsx)
+### [Table S2 - TFmiR miR-TF-miR interaction data for all FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Table_2.xlsx)
 * Only experimentally validated data (Table S2.1)
 * Both experimentally validated and computationally predicted data (Table S2.2-2.9)
 
-### [Table S3 - Gene Ontology data for mRNA (Tables S3.1-3.10) and mRNA targets of miRs (Table S3.11)](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Table_S3.xlsx)
+### [Table S3 - Gene Ontology data for mRNA (Tables S3.1-3.10) and mRNA targets of miRs (Table S3.11)](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Table_3.xlsx)
 
-### [Figure S1 - Heatmap representing log2 fold changes of (A) all differentially expressed mRNAs and (B) all differentially expressed miRs across FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Figure_1)
+### [Figure S1 - Heatmap representing log2 fold changes of (A) all differentially expressed mRNAs and (B) all differentially expressed miRs across FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Figure_1.pdf)
 
 ### [Supplemental Script: Differential Gene Expression Custom Script](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Differential_gene_analysis_custom_script.R)
 * R script for RNA-seq differential gene expression analysis using edgeR
