@@ -33,7 +33,7 @@ Please cite the following if you use information or files from this repository:
 ### [Supplemental Script: Cartilage Morphometrics Scatterplots](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Cartilage_morphometrics.R)
 * R script for creating scatterplots of morphometric data
 
-### [Supplemental Script: Differential Expression Custom Script](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Differential_expression_custom_script.R)
+### [Supplemental Script: Differential Gene Expression Custom Script](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Differential_expression_custom_script.R)
 * R script for the differential expression of RNA-seq data using edgeR
 
 ### [Supplemental File: sampleInfo.txt](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/sampleInfo.txt)
