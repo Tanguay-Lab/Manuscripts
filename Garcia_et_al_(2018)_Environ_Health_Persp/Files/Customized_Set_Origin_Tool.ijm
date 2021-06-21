@@ -1,4 +1,4 @@
-//----------------------- Set Origin Tool (customized) ---------------------- 
+//----------------------- Customized Set Origin Tool ---------------------- 
 //
 // Based on the 'Set Origin Tool' 
 // from the following ImageJ thread:
