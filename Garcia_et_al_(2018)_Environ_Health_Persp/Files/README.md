@@ -41,5 +41,6 @@ Please cite the following if you use information or files from this repository:
 
 <br>
 
-### Copyright
+***
+
 Copyright © 2020 Garcia, Shankar, Dunham, Garcia, La Du, Truong, Tilton, and Tanguay. 
