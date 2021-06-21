@@ -13,9 +13,11 @@
 // phone: (541) 737-3608
 // email: dunhamcg@gmail.com
 //
-// Modified to work with the modified "Click Coordinates Tool". 
 // This macro will set the origin of an image on click. The point will
 // be set as (0,0) on an (x,y) pixel-based coordinate system.
+// Modified to work with the "Customized Click Coordinates Tool". 
+// https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Customized_Set_Origin_Tool.ijm
+
 
   macro "Set Origin Tool - C00fL808fL08f8" {;
     // added below line to ensure scale is set in pixels  
