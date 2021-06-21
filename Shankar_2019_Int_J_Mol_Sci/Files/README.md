@@ -21,6 +21,7 @@ Please cite the following if you use information or files from this repository:
 
 <br>
 
-### Copyright
+***
+
 Copyright © 2019 Shankar, Geier, Truong, McClure, Pande, Waters, and Tanguay. This is an open-access article distributed under the terms of the [Creative Commons Attribution License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
 
