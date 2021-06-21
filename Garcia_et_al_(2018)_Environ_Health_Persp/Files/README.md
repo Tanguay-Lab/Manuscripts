@@ -16,7 +16,7 @@ Please cite the following if you use information or files from this repository:
 * References
 * Table S1. List of all primers and probes. 
 
-### [Supplemental Excel Tables](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Supplemental_Excel_Files.xlsx)
+### [Supplemental Excel Tables](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Supplemental_Excel_Tables.xlsx)
 * Excel Table S1 - Significant differentially expressed genes from 48-hpf Con-MO zebrafish developmentally exposed to 1 ng/mL TCDD for 1 hour at the shield stage, compared to the vehicle control (0.1% DMSO) 
 * Excel Table S2 - Significant differentially expressed genes from 48-hpf slincR-MO zebrafish developmentally exposed to 1 ng/mL TCDD for 1 hour at the shield stage, compared to the vehicle control (0.1% DMSO) 
 * Excel Table S3 - Top 500 enriched MetaCore GO processes from 48-hpf Con-MO zebrafish exposed to 1 ng/mL TCDD for 1 hour at the shield stage, compared to the vehicle control (0.1% DMSO) 
