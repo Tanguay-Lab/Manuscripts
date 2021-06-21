@@ -24,7 +24,7 @@ Please cite the following if you use information or files from this repository:
 
 ### [Supplemental Script: Customized Set Origin Tool](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Customized_Set_Origin_Tool.ijm)
 * This ImageJ macro will set the origin of an image on click. The point will be set as (0,0) on an (x,y) pixel-based coordinate system.
-* Modified to work with the [Customized Set Origin Tool](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Customized_Set_Origin_Tool.ijm). 
+* Modified to work with the [Customized Click Coordinates Tool](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Customized_Click_Coordinates_Tool.ijm). 
 
 ### [Supplemental Script: Customized Click Coordinates Tool](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Customized_Click_Coordinates_Tool.ijm)
 * On each click onto an image, the x, y coordinates of the point are written into the "Results" window. The point can be also marked in the image (destructively). This tool can handle scaled images (also with nontrivial pixel aspect ratio). Double click on the tool icon to display the options dialog box. The "Invert Y" option in Analyze > Set Measurements is supported.
