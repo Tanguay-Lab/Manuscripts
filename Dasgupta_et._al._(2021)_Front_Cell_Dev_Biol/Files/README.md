@@ -106,23 +106,38 @@ Tilton SC, Tal TL, Scroggins SM, Franzosa JA, Peterson ES, Tanguay RL, and Water
 <br>
 
 ## Supplemental Files
-Supplemental File [FRC_adapters.fa](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/FRC_adapters.fa)
+### [Table S1 - Phenotypic, behavioral, mRNA and miR data for the selected FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Table_S1.xlsx)
+* Phenotyping and behavioral data represented as lowest effect levels (LELs, Table S1.1)
+* mRNA and miR data represented as log2 fold changes (Tables S1.2 and S1.3) 
+* Blank cells represent fold changes below statistical or fold change thresholds
 
-Supplemental File [hisat2_extract_snps_haplotypes_VCF_CD.py](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/hisat2_extract_snps_haplotypes_VCF_CD.py)
+### [Table S2 - TFmiR miR-TF-miR interaction data for all FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Table_S2.xlsx)
+* Only experimentally validated data (Table S2.1)
+* Both experimentally validated and computationally predicted data (Table S2.2-2.9)
 
-Supplemental File [Differential_gene_analysis_custom_script.R](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Differential_gene_analysis_custom_script.R)
+### [Table S3 - Gene Ontology data for mRNA (Tables S3.1-3.10) and mRNA targets of miRs (Table S3.11)](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Table_S3.xlsx)
 
-Supplemental File [FRC_miRNA_adapters.fa](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/FRC_miRNA_adapters.fa)
+### [Figure S1 - Heatmap representing log2 fold changes of (A) all differentially expressed mRNAs and (B) all differentially expressed miRs across FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Figure_1)
 
-Supplemental File [mapper_CLD_Q33.pl](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/mapper_CLD_Q33.pl)
+### [Supplemental Script: Differential Gene Expression Custom Script](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Differential_gene_analysis_custom_script.R)
+* R script for RNA-seq differential gene expression analysis using edgeR
 
-Supplemental File [FRCs_miRNA_config_file.txt](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/FRCs_miRNA_config_file.txt)
+### [Supplemental Script: Differential_miRNA_analysis_custom_script.R](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Differential_miRNA_analysis_custom_script.R)
+* R script for miRNA-seq differential gene expression analysis using edgeR
 
-Supplemental File [make_html_2012_CLD.pl](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/make_html_2012_CLD.pl)
+### [Supplemental File: FRC_adapters.fa](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/FRC_adapters.fa)
 
-Supplemental File [miRDeep2_2012_CLD.pl](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/miRDeep2_2012_CLD.pl)
+### [Supplemental File: hisat2_extract_snps_haplotypes_VCF_CD.py](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/hisat2_extract_snps_haplotypes_VCF_CD.py)
 
-Supplemental File [Differential_miRNA_analysis_custom_script.R](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Differential_miRNA_analysis_custom_script.R)
+### [Supplemental File FRC_miRNA_adapters.fa](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/FRC_miRNA_adapters.fa)
+
+### [Supplemental File mapper_CLD_Q33.pl](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/mapper_CLD_Q33.pl)
+
+### [Supplemental File FRCs_miRNA_config_file.txt](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/FRCs_miRNA_config_file.txt)
+
+### [Supplemental File make_html_2012_CLD.pl](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/make_html_2012_CLD.pl)
+
+### [Supplemental File miRDeep2_2012_CLD.pl](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/miRDeep2_2012_CLD.pl)
 
 <br>
 
