@@ -1,4 +1,4 @@
-//------------------- Click Coordinates Tool (customized) ------------------- 
+//------------------- Customized Click Coordinates Tool ------------------- 
 //
 // Based on the 'C l i c k   C o o r d i n a t e s   T o o l' 
 // from the ImageJ Developer Resources Macros page:
@@ -18,11 +18,10 @@
 // in the image (destructively). This tool can handle scaled images 
 // (also with nontrivial pixel aspect ratio). Double click on the tool
 // icon to display the options dialog box. The "Invert Y" option in 
-// Analyze>Set Measurements is supported.
+// Analyze > Set Measurements is supported.
 // 
-// Modified to work with the modified "Set Origin Tool". 
-// This macro will return (x,y) pixel coordinates with respect to the 
-// user-defined origin (selected using the modified "Set Origin Tool").
+// Modified to work with the "Customized Set Origin Tool". 
+// https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/Customized_Set_Origin_Tool.ijm
 
 
   // removed  var outputScaled = 1;     report raw coordinates (pixels) if false
