@@ -126,5 +126,6 @@ Supplemental File [Differential_miRNA_analysis_custom_script.R](https://github.c
 
 <br>
 
-### Copyright
+***
+
 Copyright © 2021 Dasgupta, Dunham, Truong, Simonich, Sullivan, and Tanguay. This is an open-access article distributed under the terms of the [Creative Commons Attribution License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
