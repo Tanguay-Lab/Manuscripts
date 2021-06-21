@@ -7,7 +7,7 @@ Please cite the following if you use information or files from this repository:
 
 <br>
 
-### [Supplemental Methods: CHART Sample Preparation and Table](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/CHART_Sample_Preparation_and_Tables.pdf)
+### [Supplemental Methods: CHART Sample Preparation and Table](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Garcia_et_al_(2018)_Environ_Health_Persp/Files/CHART_Sample_Preparation_and_Table.pdf)
 * Day 1 Embryo collection and exposure
 * Day 2 Dechorionation
 * Day 3 Protocol 1: Crosslinking and Preparation of Nuclei Pellets (Simon Protocol)
