@@ -1,1 +1,2 @@
 # Please visit the [wiki page](https://github.com/Tanguay-Lab/Manuscripts/wiki)
+Shankar P, Geier MC, Truong L, McClure RS, Pande P, Waters KM, and Tanguay RL. (2019). [Coupling genome-wide transcriptomics and developmental toxicity profiles in zebrafish to characterize polycyclic aromatic hydrocarbon (PAH) hazard](https://github.com/Tanguay-Lab/Manuscripts/wiki/Shankar_2019_Int_J_Mol_Sci). *International Journal of Molecular Sciences*. **20**(10). doi:[10.1016/j.reprotox.2020.08.007](https://doi.org/10.3390/ijms20102570).
