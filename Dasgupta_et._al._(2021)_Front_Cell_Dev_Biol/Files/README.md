@@ -107,17 +107,21 @@ Tilton SC, Tal TL, Scroggins SM, Franzosa JA, Peterson ES, Tanguay RL, and Water
 
 ## Supplemental Files
 ### [Table S1 - Phenotypic, behavioral, mRNA and miR data for the selected FRCs](https://github.com/Tanguay-Lab/Manuscripts/tree/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Table_1.xlsx)
-* Phenotyping and behavioral data represented as lowest effect levels (LELs, Table S1.1)
-* mRNA and miR data represented as log2 fold changes (Tables S1.2 and S1.3) 
+* Table S1.1 - Phenotyping and behavioral data represented as lowest effect levels (LELs)
+* Tables S1.2 and S1.3 - mRNA and miR data represented as log2 fold changes 
 * Blank cells represent fold changes below statistical or fold change thresholds
 
 ### [Table S2 - TFmiR miR-TF-miR interaction data for all FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Table_2.xlsx)
-* Only experimentally validated data (Table S2.1)
-* Both experimentally validated and computationally predicted data (Table S2.2-2.9)
+* Table S2.1 - Only experimentally validated data
+* Table S2.2-2.9 - Both experimentally validated and computationally predicted data
 
-### [Table S3 - Gene Ontology data for mRNA (Tables S3.1-3.10) and mRNA targets of miRs (Table S3.11)](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Table_3.xlsx)
+### [Table S3 - Gene ontology data](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Table_3.xlsx)
+* Tables S3.1-3.10 - Data for mRNA
+* Table S3.11 - Data for mRNA targets of miRs 
 
-### [Figure S1 - Heatmap representing log2 fold changes of (A) all differentially expressed mRNAs and (B) all differentially expressed miRs across FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Figure_1.pdf)
+### [Figure S1 - Heatmap representing log2 fold changes across FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Figure_1.pdf)
+* A - All differentially expressed mRNAs
+* B - All differentially expressed miRs
 
 ### [Supplemental Script: Differential Gene Expression Custom Script](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Differential_gene_analysis_custom_script.R)
 * R script for RNA-seq differential gene expression analysis using edgeR
@@ -126,18 +130,25 @@ Tilton SC, Tal TL, Scroggins SM, Franzosa JA, Peterson ES, Tanguay RL, and Water
 * R script for miRNA-seq differential gene expression analysis using edgeR
 
 ### [Supplemental File: FRC_adapters.fa](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/FRC_adapters.fa)
+* FASTA file containing sequences used in adapter trimming of RNAs
 
 ### [Supplemental File: hisat2_extract_snps_haplotypes_VCF_CD.py](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/hisat2_extract_snps_haplotypes_VCF_CD.py)
+* Customized version the the hisat2_extract_snps_haplotypes_VCF.py (from HISAT2 version 2.1.0), modified to allow for the extraction of SNPs and haplotypes from Ensembl VCF files
 
 ### [Supplemental File FRC_miRNA_adapters.fa](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/FRC_miRNA_adapters.fa)
+* FASTA file containing sequences used in adapter trimming of miRs
 
 ### [Supplemental File mapper_CLD_Q33.pl](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/mapper_CLD_Q33.pl)
+* Customized version the the mapper.pl script (from miRDeep2 version 2.0.0.8), modified to allow for customized bowtie mapping options with extra memory allocation
 
 ### [Supplemental File FRCs_miRNA_config_file.txt](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/FRCs_miRNA_config_file.txt)
+* Configuration file used to connect labels to miR trimmed read files
 
 ### [Supplemental File make_html_2012_CLD.pl](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/make_html_2012_CLD.pl)
+* Customized version the the make_html.pl script (from miRDeep2 version 2.0.1.2), modified to allow Bowtie to build Rfam index files in the current working directory
 
 ### [Supplemental File miRDeep2_2012_CLD.pl](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/miRDeep2_2012_CLD.pl)
+* Customized version the the miRDeep2.pl script (from miRDeep2 version 2.0.1.2), modified to replace make_html.pl with make_html_2012_CLD.pl so Rfam bowtie index files can be created in the current directory
 
 <br>
 
