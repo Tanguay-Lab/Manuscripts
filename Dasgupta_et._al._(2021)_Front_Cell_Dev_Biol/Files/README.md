@@ -120,8 +120,8 @@ Tilton SC, Tal TL, Scroggins SM, Franzosa JA, Peterson ES, Tanguay RL, and Water
 * Table S3.11 - Data for mRNA targets of miRs 
 
 ### [Figure S1 - Heatmap representing log2 fold changes across FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Figure_1.pdf)
-* A - All differentially expressed mRNAs
-* B - All differentially expressed miRs
+* A) - All differentially expressed mRNAs
+* B) - All differentially expressed miRs
 
 ### [Supplemental Script: Differential Gene Expression Custom Script](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Differential_gene_analysis_custom_script.R)
 * R script for RNA-seq differential gene expression analysis using edgeR
