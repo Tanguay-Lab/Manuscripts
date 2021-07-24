@@ -111,7 +111,7 @@ Tilton SC, Tal TL, Scroggins SM, Franzosa JA, Peterson ES, Tanguay RL, and Water
 * Tables S1.2 and S1.3 - mRNA and miR data represented as log2 fold changes 
 * Blank cells represent fold changes below statistical or fold change thresholds
 
-### [Table S2 - TFmiR miR-TF-miR interaction data for all FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Table_2.xlsx)
+### [Table S2 - TF-miR miR-TF-miR interaction data for all FRCs](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Dasgupta_et._al._(2021)_Front_Cell_Dev_Biol/Files/Supplemental_Table_2.xlsx)
 * Table S2.1 - Only experimentally validated data
 * Table S2.2-2.9 - Both experimentally validated and computationally predicted data
 
