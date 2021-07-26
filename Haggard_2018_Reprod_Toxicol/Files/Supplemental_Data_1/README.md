@@ -7,7 +7,7 @@ Please cite the following if you use information or files from this repository:
 
 <br>
 
-### [Supplemental Data 1](https://github.com/Tanguay-Lab/Manuscripts/blob/main/Haggard_2018_Reprod_Toxicol/Files/Supplemental_Data_1)
+## Supplemental Data 1
 * Data S1 - Significantly differentially expressed transcripts with FDR-adjusted *p* ≤ 0.05 and ≥ 1.5-fold increase or decrease in expression for each chemical
 
 <br>
