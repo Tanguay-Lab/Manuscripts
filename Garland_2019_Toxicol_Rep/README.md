@@ -1,0 +1,2 @@
+# Please visit the [wiki page](https://github.com/Tanguay-Lab/Manuscripts/wiki)
+Garland MA, Sengupta S, Mathew LK, Truong L, de Jong E, Piersma AH, La Du J, and Tanguay RL. (2019). [Glucocorticoid receptor-dependent induction of *cripto-1* (*one-eyed pinhead*) inhibits zebrafish caudal fin regeneration](https://github.com/Tanguay-Lab/Manuscripts/wiki/Garland_2019_Toxicol_Rep). *Toxicology Reports*. **6**: 529-537. doi: [10.1016/j.toxrep.2019.05.013](https://doi.org/10.1016/j.toxrep.2019.05.013).
