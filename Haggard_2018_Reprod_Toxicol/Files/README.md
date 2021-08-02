@@ -3,7 +3,7 @@ Please cite the following if you use information or files from this repository:
 
 <br>
 
->Haggard DE, Noyes PD, WaterS KM, and Tanguay RL. (2018). [Transcriptomic and phenotypic profiling in developing zebrafish exposed to thyroid hormone receptor agonists](https://github.com/Tanguay-Lab/Manuscripts/wiki/Haggard_2018_Reprod_Toxicol). *Reproductive Toxicology*. **77**: 80-93. doi: [10.1016/j.reprotox.2018.02.006](https://doi.org/10.1016/j.reprotox.2018.02.006).
+>Haggard DE, Noyes PD, Waters KM, and Tanguay RL. (2018). [Transcriptomic and phenotypic profiling in developing zebrafish exposed to thyroid hormone receptor agonists](https://github.com/Tanguay-Lab/Manuscripts/wiki/Haggard_2018_Reprod_Toxicol). *Reproductive Toxicology*. **77**: 80-93. doi: [10.1016/j.reprotox.2018.02.006](https://doi.org/10.1016/j.reprotox.2018.02.006).
 
 <br>
 
