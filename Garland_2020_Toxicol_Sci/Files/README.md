@@ -3,7 +3,7 @@ Please cite the following if you use information or files from this repository:
 
 <br>
 
->Garland MA, Geier MC, Bugel SM, Shankar P, Dunham CL, Brown JM, Tilton SC, and Tanguay RL. (2020). [Aryl hydrocarbon receptor mediates larval zebrafish fin duplication following exposure to benzofluoranthenes](https://github.com/Tanguay-Lab/Manuscripts/wiki/Garland_2020_Toxicol_Sci). *Toxicological Sciences*. **176**(1): 46-64. doi: [10.1093/toxsci/kfaa063](https://doi.org/10.1093/toxsci/kfaa063).
+>Garland MA, Geier MC, Bugel SM, Shankar P, Dunham CL, Brown JM, Tilton SC, and Tanguay RL. (2020). [Aryl hydrocarbon receptor mediates larval zebrafish fin duplication following exposure to benzofluoranthenes](https://github.com/Tanguay-Lab/Manuscripts/wiki/Garland_2020_Toxicol_Sci). *Toxicological Sciences*. **176**(1): 46-64. doi:[10.1093/toxsci/kfaa063](https://doi.org/10.1093/toxsci/kfaa063).
 
 <br>
 
