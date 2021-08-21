@@ -27,4 +27,4 @@ Please cite the following if you use information or files from this repository:
 
 ***
 
-Copyright © 2018 Garcia, Bugel, Truong, Spagnoli, and Tanguay. 
+Copyright © 2018 Garcia, Bugel, Truong, Spagnoli, and Tanguay. This is an open-access article distributed under the terms of the [Creative Commons Attribution License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
