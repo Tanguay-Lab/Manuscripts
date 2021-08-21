@@ -1,2 +1,0 @@
-# Please visit the [wiki page](https://github.com/Tanguay-Lab/Manuscripts/wiki)
-Haggard DE, Das SR, and Tanguay RL. (2017). [Comparative toxicogenomic responses to the flame retardant mITP in developing zebrafish](https://github.com/Tanguay-Lab/Manuscripts/wiki/Haggard_2017_Chem_Res_Toxicol). *Chemical Research in Toxicology*. **30**(2): 508-515. doi:[10.1021/acs.chemrestox.6b00423](https://doi.org/10.1021/acs.chemrestox.6b00423).
