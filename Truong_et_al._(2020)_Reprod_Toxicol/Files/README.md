@@ -3,7 +3,7 @@ Please cite the following if you use information or files from this repository:
 
 <br>
 
-> Truong L, Marvel S, Reif DM, Thomas D, Pande P, Dasgupta S, Simonich MT, Waters KM, and Tanguay RL. (2020). [The multi-dimensional embryonic zebrafish platform predicts flame retardant bioactivity](https://github.com/Tanguay-Lab/Manuscripts/wiki/Truong_2020_Reprod_Toxicol). *Reproductive Toxicology*. **96**: 359-369. doi:[10.1016/j.reprotox.2020.08.007](https://doi.org/10.1016/j.reprotox.2020.08.007).
+> Truong L, Marvel S, Reif DM, Thomas D, Pande P, Dasgupta S, Simonich MT, Waters KM, and Tanguay RL. (2020). [The multi-dimensional embryonic zebrafish platform predicts flame retardant bioactivity](https://github.com/Tanguay-Lab/Manuscripts/wiki/Truong_2020_Reprod_Toxicol). *Reproductive Toxicology*. **96**: 359-369. doi: [10.1016/j.reprotox.2020.08.007](https://doi.org/10.1016/j.reprotox.2020.08.007).
 
 <br>
 
