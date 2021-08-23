@@ -15,9 +15,9 @@
 
 ##----1) Install any missing packages----
 #Use to install multiple CRAN packages
-#install.packages(c('xlsx','dplyr')) 
+#install.packages(c('ggplot2','dplyr')) 
 #Use to install a single CRAN package
-#install.packages('xlsx') 
+#install.packages('ggplot2') 
 
 
 ##----2) Load packages and specify file paths----
@@ -25,7 +25,6 @@
 
 #List all required packages to load in loop
 all_packages <- c('dplyr', 
-                  'xlsx',
                   'ggplot2')
 #Load all packages at once, ignore the screen print out
 sapply(all_packages, require, character.only = TRUE)
@@ -33,11 +32,11 @@ sapply(all_packages, require, character.only = TRUE)
 
 #I append this to the beginning of all files to ensure all file names go into whatever folder you specify
 output_filepath <- 'C:/Users/dunhamc/Google Drive/R_scripts/Manuscripts/SlincR (2nd paper)'
-input_filepath <- 'C:/Users/dunhamc/Google Drive/Tanguay_Lab/Phenotype_Scrn/Cart_stain/08-11-2017/Cart_data_8_11_17_b.xlsx'
+input_filepath <- 'C:/Users/dunhamc/Google Drive/Tanguay_Lab/Phenotype_Scrn/Cart_stain/08-11-2017/Cart_data_8_11_17_b.txt'
 
 ##----3) Read in table----
-#read in file, specify path to file, tab of Excel workbook, and column header is names in first row
-analysis_table <- read.xlsx(file = input_filepath, sheetIndex = 'R_input', header = TRUE, stringsAsFactors = FALSE)
+#read in file, specify path to file, and set column header to the names in the first row
+analysis_table <- read.table(file = input_filepath, header = TRUE, sep = '\t', stringsAsFactors = FALSE)
 
 #turn morphant status, treatment, and location into factors and specify control with levels
 analysis_table$Morphant <- factor(analysis_table$Morphant, levels = c('ConMO','SlincR_MO'))
@@ -184,19 +183,3 @@ print(ggplot(data = subset(cart_summary, Location == 'D'), aes(x = mean_x, y = m
                 panel.border = element_blank(),
                 panel.grid = element_blank()))
 dev.off()
-
-
-##----5) Write session information----
-writeLines(capture.output({
-    cat('###########################################################################\n##  Script and Data Analysis by Cheryl Dunham                            ##\n##                                                                       ##\n##  Budding Bioinformatician                                             ##\n##  Tanguay Laboratory | Sinnhuber Aquatic Research Laboratory (SARL)    ##\n##  28645 E Hwy 34                                                       ##\n##  Corvallis, OR 97333                                                  ##\n##  Oregon State University                                              ##\n##                                                                       ##\n##  (541) 737-6500                                                       ##\n##  dunhamcg@gmail.com                                                   ##\n###########################################################################\n\n')
-    cat('Input filepath:', input_filepath, '\n\n')
-    cat('Output filepath:', output_filepath, '\n\n_____________________________________________________________________________________\n_____________________________________________________________________________________\n\n')
-    print(sessionInfo())
-    cat('\n_____________________________________________________________________________________\n_____________________________________________________________________________________\n\n\nR Citation Information\n')
-    print(citation(package = 'base'))
-    cat('\n_____________________________________________________________________________________\n_____________________________________________________________________________________\n\n\nRStudio Citation Information\n\n')
-    print(RStudio.Version())
-    cat('_____________________________________________________________________________________\n_____________________________________________________________________________________\n\n\nAttached Package Citation Information\n\n')
-    print(lapply(all_packages, citation))
-    
-}), paste0(output_filepath,'/Morphometric_analysis_sessionInfo_',Sys.Date(),'.txt'))
