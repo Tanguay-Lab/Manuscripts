@@ -6,4 +6,4 @@
 </p>
 
 # Please visit the [Manuscripts Wiki](https://github.com/Tanguay-Lab/Manuscripts/wiki)
-* See also the [Bioinformatic Resources Wiki](https://github.com/Tanguay-Lab/Bioinformatic_Resources/wiki) and the [Tanguay Lab Research Website](http://tanguaylab.com)
+* See also the [Bioinformatic and Toxicological Resources Wiki](https://github.com/Tanguay-Lab/Bioinformatic_and_Toxicological_Resources/wiki) and the [Tanguay Lab Research Website](http://tanguaylab.com)
