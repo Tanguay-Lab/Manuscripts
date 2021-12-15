@@ -10,3 +10,9 @@ The data and results included here are a part of *insert citation to paper here*
 4. Fisher exact test to test for associations between volatility status of chemical and bioactivity across endpoints
 5. Chemotype enrichment analysis to test for associations between chemotype and bioactivity across endpoints
 6. Correlation analysis between bioactivity and physiochemical properties.
+
+### Results
+
+Raw data is posted under Files/
+Curve fits and figures from the paper are posted under results/  
+List of bioactive chemicals and other info is present in SI file posted under results/
