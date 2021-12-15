@@ -13,6 +13,6 @@ The data and results included here are a part of *insert citation to paper here*
 
 ### Results
 
-Raw data is posted under Files/
-Curve fits and figures from the paper are posted under results/  
-List of bioactive chemicals and other info is present in SI file posted under results/
+Raw data is posted under Files/ 
+Curve fits and figures from the paper are posted under results/   
+List of bioactive chemicals and other info is present in SI file posted under results/  
