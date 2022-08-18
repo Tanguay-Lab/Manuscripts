@@ -7,7 +7,7 @@ Deep autoencoders utilizing raw behavioral tracking data from zebrafish larvae o
 ![Autoencoder Model Design](https://github.com/ajgreen4/auto-behavior-zt/blob/main/Autoencoder%20Model%20Design.png)
 
 
-This repository contains four Jupyter Notebook files:
+This repository contains ten Jupyter Notebook files:
  - Data preprocessing notebooks
     - etho_data_Step_1_QC.ipynb
         - Removes data for dead or abnormal larvae as well as incomplete data
