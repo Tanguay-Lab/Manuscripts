@@ -1,4 +1,3 @@
-# Please visit the [wiki page](https://github.com/Tanguay-Lab/Manuscripts/wiki)
 Adrian J. Green, Lisa Truong, Preethi Thunga, Connor Leong, Melody Hancock, Robyn L. Tanguay, David M. Reif. [Deep autoencoder-based behavioral pattern recognition outperforms standard statistical methods in high-dimensional zebrafish studies ](https://github.com/Tanguay-Lab/Manuscripts/wiki/Green_et_al.(2022)_Manuscript). 
 
 
