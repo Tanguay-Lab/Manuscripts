@@ -1,6 +1,4 @@
-Adrian J. Green, Lisa Truong, Preethi Thunga, Connor Leong, Melody Hancock, Robyn L. Tanguay, David M. Reif. [Deep autoencoder-based behavioral pattern recognition outperforms standard statistical methods in high-dimensional zebrafish studies ](https://github.com/Tanguay-Lab/Manuscripts/wiki/Green_et_al.(2022)_Manuscript). 
-
-
+# Deep autoencoder-based behavioral pattern recognition outperforms standard statistical methods in high-dimensional zebrafish studies 
 Deep autoencoders utilizing raw behavioral tracking data from zebrafish larvae outperforms traditional statistical methodologies resulting in a comprehensive evaluation of behavioral data following toxicant exposure. Our models can accurately distinguish between normal and abnormal behavior with near complete overlap with existing statistical approaches, with many chemicals detectable at lower concentrations than with traditional statistical tests – a critical finding relevant to protecting public health. 
 
 ![Autoencoder Model Design](https://github.com/ajgreen4/auto-behavior-zt/blob/main/Autoencoder%20Model%20Design.png)
