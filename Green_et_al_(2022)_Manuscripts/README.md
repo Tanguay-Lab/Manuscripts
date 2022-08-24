@@ -4,7 +4,7 @@ Deep autoencoders utilizing raw behavioral tracking data from zebrafish larvae o
 ![Autoencoder Model Design](https://github.com/ajgreen4/auto-behavior-zt/blob/main/Autoencoder%20Model%20Design.png)
 
 
-This repository contains ten Jupyter Notebook [files](https://github.com/Tanguay-Lab/Manuscripts/tree/main/Green_et_al._(2022)_Manuscript/Files):
+This repository contains ten Jupyter Notebook [files](https://github.com/Tanguay-Lab/Manuscripts/tree/main/Green_et_al_(2022)_Manuscript/Files):
  - Data preprocessing notebooks
     - etho_data_Step_1_QC.ipynb
         - Removes data for dead or abnormal larvae as well as incomplete data
@@ -63,7 +63,7 @@ Remote server: ${node}
 Remote port: ${port}
 SSH server: ${cluster}
 SSH login: ${user}
-SSH port: 222
+SSH port: 22
 
 Use a Browser on your local machine to go to:
 http://localhost:${port}  (prefix w/ https:// if using password)
