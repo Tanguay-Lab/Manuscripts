@@ -34,7 +34,7 @@ This repository contains ten Jupyter Notebook [files](https://github.com/Tanguay
     - Green_scripts_v1.py
 - high_dark_sample_z_data.zip
     - Sample training data that may be used to run the etho_data_Step_5_train_dark_high_zf_Autoencoder.ipynb notebook.
-- ![Complete dataset:](https://tanguaylab.com/index.php/software-and-tools/)
+- [Complete dataset:](https://tanguaylab.com/index.php/software-and-tools/)
 
  These files should be run in the Singularity container environment build for this project to ensure all dependencies are present and that the code runs error free. The container can be found at: https://cloud.sylabs.io/library/ajgreen/default/ml-nvdashboard-container
 
